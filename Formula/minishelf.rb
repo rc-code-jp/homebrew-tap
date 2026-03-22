@@ -1,6 +1,6 @@
 class Minishelf < Formula
-    version "1.4.0"
-    sha256 "4753106376a59101eb1547f4fb0fd3cdebdbfb3039f05fc82f35d0bc876cf66a"
+    version "1.5.0"
+    sha256 "c0a1311388273953fba133a421c50326381ba7a36f9a8d6c7a3e078d7ab9b980"
 
     desc "Rust TUI file explorer with git-aware coloring"
     homepage "https://github.com/rc-code-jp/minishelf"
