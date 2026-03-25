@@ -1,6 +1,6 @@
 class Pocogit < Formula
-  version "0.5.0"
-  sha256 "6faf669a2762bd68272bb099dc616ccc568d8b7f7cdb930a151df74877e2b4f2"
+  version "1.0.0"
+  sha256 "19a86e8ad00c4354ba9005c484afcb38382d1801a8b0fb45f64ce0b812a37e7f"
 
   desc "A compact git TUI for narrow terminal panes"
   homepage "https://github.com/rc-code-jp/pocogit"
