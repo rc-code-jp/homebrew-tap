@@ -4,7 +4,7 @@ class Pocoshelf < Formula
   version "3.0.4"
 
   url "https://github.com/rc-code-jp/pocoshelf/releases/download/v#{version}/pocoshelf-#{version}-aarch64-apple-darwin.tar.gz"
-  sha256 "09f12a52bad17a03346c14d611e255219df5c4994dff540be22c3118b4827d06"
+  sha256 "76588fd7c99da37e2579147a9c54d2cab955ef95130e8132f6821973a9f3d626"
 
   def install
     bin.install "pocoshelf"
