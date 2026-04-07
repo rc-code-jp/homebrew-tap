@@ -1,10 +1,10 @@
 class Pocoshelf < Formula
   desc "Rust TUI file explorer with git-aware coloring"
   homepage "https://github.com/rc-code-jp/pocoshelf"
-  version "3.0.4"
+  version "3.0.5"
 
   url "https://github.com/rc-code-jp/pocoshelf/releases/download/v#{version}/pocoshelf-#{version}-aarch64-apple-darwin.tar.gz"
-  sha256 "76588fd7c99da37e2579147a9c54d2cab955ef95130e8132f6821973a9f3d626"
+  sha256 "f79ea61703f6dcda5fffebb3b02c64df8452fb5e559ea58d8cb3dc53f533ad00"
 
   def install
     bin.install "pocoshelf"
